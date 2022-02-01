@@ -1,0 +1,1 @@
+# Uygulamali_Makine_Ogrenmesi
