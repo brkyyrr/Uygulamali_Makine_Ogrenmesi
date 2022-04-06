@@ -6,3 +6,5 @@ Scikit-Learn, Keras, ve TensorFlow  kütüphanelerini öğrenmek ve tekrar etmek
 1) [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 2) [Ridge, Lasso ve Elastic Net  ](https://buse-koseoglu13.medium.com/ridge-lasso-ve-elastic-net-b6089bf2f09)
+
+3) [Tirendaz Akademi (Youtube)  ](https://www.youtube.com/channel/UCzH73XJRgK2EQ7COnG8DkyA)
